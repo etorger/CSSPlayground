@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dancing+Script:wght@500&family=Maven+Pro&display=swap');
+
+
+body {
+    background-color: burlywood;
+}
+
+.heading {
+    text-align: center
+}
+
+.playground-heading {
+    color: red;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid grey; 
+    width: 55%; 
+    margin: 1rem auto;
+}
+
+.main div {
+    width: 200px; 
+    height: 200px; 
+    border: 1px solid black; 
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+#green {
+    border-color: green;
+}
+#blue {
+    border-color: blue;
+}
+.footer {
+    color: chartreuse;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
